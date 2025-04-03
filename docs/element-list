@@ -1,0 +1,13 @@
+module:dk.via.taskmanagement
+dk.via.taskmanagement
+dk.via.taskmanagement.client
+dk.via.taskmanagement.exceptions
+dk.via.taskmanagement.model
+dk.via.taskmanagement.model.builders
+dk.via.taskmanagement.server
+dk.via.taskmanagement.server.dao
+dk.via.taskmanagement.shared
+dk.via.taskmanagement.utilities
+dk.via.taskmanagement.validation
+dk.via.taskmanagement.view
+dk.via.taskmanagement.viewmodel
